@@ -1,0 +1,6 @@
+.hero-img {
+    background-image: url(../header/hero-img-1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
