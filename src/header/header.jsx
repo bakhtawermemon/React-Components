@@ -11,7 +11,7 @@ const Header = () => {
 
         <nav className=" pt-5 navbar navbar-expand-lg">
           <div className="container ">
-            <a className="navbar-brand text-white fw-bold" href="#">M NTN</a>
+            <h1 className="navbar-brand text-white fw-bold" href="#">MNTN</h1>
             <button
               className="navbar-toggler"
               type="button"

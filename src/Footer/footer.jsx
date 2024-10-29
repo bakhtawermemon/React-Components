@@ -1,5 +1,6 @@
 
 import React from 'react'
+import "../header/header.css"
 const Footer = () => {
     return (
 
@@ -9,8 +10,8 @@ const Footer = () => {
                     <div className="row">
 
                         <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            <h5 className="text-uppercase">MNTN</h5>
-                            <p className='fs-4'>Get out there & discover your next  slope, mountain & destination!</p>
+                            <h1 className="text-uppercase fs-3">MNTN</h1>
+                            <p className='fs-4'>Get out there & discover your next <br /> slope, mountain & destination!</p>
                             <p className='mt-3 pt-5 text-secondary'>© 2023 MNTN, Inc. Terms & Privacy</p>
                         </div>
 
